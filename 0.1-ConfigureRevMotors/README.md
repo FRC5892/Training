@@ -18,7 +18,7 @@ public static final ArmConstants {
 ```
 2. Plug a USB-C cable into each Spark Max
 3. Refer to the following image to set the CAN ID of the appropriate value  
-> ![alt text](image.png)
+> ![Rev Hardware Client with the hardware selection tab, the can id box, and the burn flash button highlighted ](hardwareClient.png)
 > 1. Select the top spark max on the left. This is the spark max directly connected to the laptop
 > 2. Enter the correct CAN ID according to the snippet above
 > 3. Click burn flash and confirm if prompted
