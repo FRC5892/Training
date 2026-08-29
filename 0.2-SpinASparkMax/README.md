@@ -1,3 +1,8 @@
+# 0.2 Spin a Spark Max
+In this lesson, students will program a sparkMax so it can be spun by pressing a button. The existing code contains comments in the location each snippet should go. In this document, each snippet contains a detailed description that describes both the Java and WPILIB concepts used. These descriptions are optional.
+#### 0. Open the subsystem
+Open `ShooterSubsystem.java` in `src/main/java/frc/robot/subsystems/ShooterSubsystem.java`
+
 #### 1. Declare the motor variables
 ```java
 private final CANSparkMax leftMotor;
