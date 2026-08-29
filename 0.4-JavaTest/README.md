@@ -1,11 +1,12 @@
 # Java Basics Badge Test
 Finish this to earn your Java Basics badge! 
-This test is a little weird but it uses the java we robotics really uses
+
+This test is a little weird but it uses the java that FRC really uses.
 
 ## On a chromebook
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/FRC5892/Training2024)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/FRC5892/Training)
 
-Open a in a new Codespace (just click create codespace if prompted for settings) and hit 3 dots -> file -> open folder -> day 1 -> test -> ok
+Open a in a new Codespace (just click create codespace if prompted for settings) and hit 3 dots -> file -> open folder -> 0.4-JavaTest -> ok
 ## Testing
 This project was designed with unit tests, i.e a way for developers to make sure a change doesn't 
 break anything unexpected by testing all functionality before the new code can get too far. This 
