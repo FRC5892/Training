@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "modules": [
+    {
+      "id": "1.1-explore",
+      "title": "Hello, World",
+      "description": "Variables, terminal input, and printing values.",
+      "subdir": "coderunner/1.1-explore",
+      "kind": "robot",
+      "order": 10
+    }
+  ]
+}
