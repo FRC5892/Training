@@ -1,0 +1,3 @@
+[submodule "coderunner/1.1-explore"]
+	path = coderunner/1.1-explore
+	url = https://github.com/FRC5892/TrainingBot.git
