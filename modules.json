@@ -3,8 +3,8 @@
   "modules": [
     {
       "id": "1.1-explore",
-      "title": "Hello, World",
-      "description": "Variables, terminal input, and printing values.",
+      "title": "Explore Programming",
+      "description": "Explore the basics and fix a broke bot",
       "subdir": "coderunner/1.1-explore",
       "kind": "robot",
       "order": 10
